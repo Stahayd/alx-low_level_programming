@@ -4,6 +4,7 @@
 /**
  * main - check the code.
  *
+ *_isupper(c): test the class
  * Return: Always 0.
  */
 int main(void)
